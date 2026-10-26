@@ -1,0 +1,1 @@
+O arquivo é um exemplo ilustrativo, não configure backend remoto sem definir bucket único, versionamento, criptografia e bloqueio de estado. Use workspaces separados somente após definir estratégia segura de estado e segredos.
